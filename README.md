@@ -1,4 +1,8 @@
 Facebook Scroll to Top
 ======================
 
-Adds a button to your facebook pages that scrolls to the top.
+Chrome extension that adds a button to your facebook pages that scrolls to the
+top.
+
+To install: download the facebook-scroll.crx file, open chrome extensions page
+and drag and drop the crx file.
