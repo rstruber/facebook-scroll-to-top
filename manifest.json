@@ -6,8 +6,8 @@
 	"content_scripts": [
 		{
 			"matches": ["https://www.facebook.com/*"],
-			"css": ["assets/css/button.css"],
-			"js": ["assets/js/jquery-1.9.1.min.js", "assets/js/scroll-button.js"]
+			"css": ["src/button.css"],
+			"js": ["src/jquery-1.9.1.min.js", "src/scroll-button.js"]
 		}
 	]
 }
